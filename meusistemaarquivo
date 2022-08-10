@@ -1,0 +1,4 @@
+Sist. Arq.     Tipo  Tam. Usado Disp. Uso% Montado em
+/dev/sdb1      ext4   28G  5,6G   21G  22% /
+/dev/sda1      ext4   73G   24K   70G   1% /backup
+/dev/sdb6      ext4  429G  844M  407G   1% /home
